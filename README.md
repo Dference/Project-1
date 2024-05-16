@@ -7,7 +7,7 @@ The Super Bowl has evolved beyond a mere sporting event; it's a cultural phenome
   
 - To examine if there is a relationship between the type of brand and the engagement metrics (likes/views) they garner during the Super Bowl.
   
-- To assess whether the success of Super Bowl commercials bolsters the future stock performance of the brands involved and offer correlation between tactical roll out due to present and future cost of advertisement.
+- To assess whether the success of Super Bowl commercials can trigger positive future stock performance of the brands involved and show correlation between present and future cost of advertisement, to better plan a strategic view for timing execution.
 
 
 ## Facts by Numbers
